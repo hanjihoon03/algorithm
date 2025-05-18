@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 
-public class Main0517_11399 {
+public class Main0518_11399 {
 
 
     public static void main(String[] args) throws IOException {
