@@ -1,9 +1,8 @@
-package study;
+package week1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.PriorityQueue;
 
 
 public class Main0517_2750 {

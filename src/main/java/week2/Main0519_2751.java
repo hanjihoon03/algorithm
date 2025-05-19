@@ -1,11 +1,10 @@
-package study;
+package week2;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
-import java.util.StringTokenizer;
 
 //병합 정렬(nlogn)
 //인덱스를 통해 n개 그룹으로 나누어 각 그룹을 정렬하며 합친다. 2개의 그룹 병합은 투 포인터로 진행
