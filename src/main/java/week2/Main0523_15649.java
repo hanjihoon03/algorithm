@@ -40,6 +40,7 @@ public class Main0523_15649 {
       return;
     }
 
+
     for (int i = 1; i <= N; i++) {
       if (!visited[i]) {
         visited[i] = true;
