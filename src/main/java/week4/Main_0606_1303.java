@@ -22,8 +22,8 @@ public class Main_0606_1303 {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     StringTokenizer st = new StringTokenizer(br.readLine());
 
-    N = Integer.parseInt(st.nextToken());
     M = Integer.parseInt(st.nextToken());
+    N = Integer.parseInt(st.nextToken());
     map = new char[N][M];
     visited = new boolean[N][M];
 
