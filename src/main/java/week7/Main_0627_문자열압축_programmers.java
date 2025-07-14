@@ -10,6 +10,7 @@ public class Main_0627_문자열압축_programmers {
         String s = br.readLine();
         System.out.println(solution(s));
 
+
     }
     static int solution(String s) {
         //dp -> 0으로 초기화 후 중복만 카운트 하면?
